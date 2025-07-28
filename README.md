@@ -8,6 +8,7 @@ This is a fun and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and 
 
 ![Tic-Tac-Toe Screenshot] Start Game||(https://github.com/ADITISHARMA-86/Tic-Tac-Toe/blob/main/game%20project/game%20project/Screenshot%202025-07-28%20135124.png)
 (Playing)https://github.com/ADITISHARMA-86/Tic-Tac-Toe/blob/main/game%20project/game%20project/Screenshot%202025-07-28%20135209.png
+(Result)https://github.com/ADITISHARMA-86/Tic-Tac-Toe/blob/main/game%20project/game%20project/Screenshot%202025-07-28%20135250.png
 ---
 
 ## 🚀 Features
